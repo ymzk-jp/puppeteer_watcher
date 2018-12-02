@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ymzk-jp/puppeteer_watcher/issues"
   },
-  "homepage": "https://github.com/ymzk-jp/puppeteer_watcher#readme"
+  "homepage": "https://github.com/ymzk-jp/puppeteer_watcher#readme",
+  "dependencies": {
+    "puppeteer": "^1.11.0"
+  }
 }
